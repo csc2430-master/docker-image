@@ -12,7 +12,6 @@ RUN apt-get update && apt-get upgrade -y && apt-get install -y \
 	g++ \
 	gcc \
 	gdb \
-	libncurses5 libncurses5-dev \
 	make \
 	sudo \
 	valgrind \
