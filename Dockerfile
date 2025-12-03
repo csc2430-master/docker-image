@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:latest
 MAINTAINER Carlos R. Arias <arias@spu.edu>
 
 ARG user=student
